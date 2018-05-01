@@ -1,0 +1,2 @@
+# aemCore
+AEM core project
